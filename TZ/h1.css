@@ -1,0 +1,41 @@
+h1 {
+    color: rgb(0, 255, 234);
+}
+p {
+    color: rgb(0, 238, 255);
+}
+
+section{
+    color: rgb(153, 231, 255);
+}
+h3{
+    color: rgb(251, 255, 0);
+}
+h2 {
+    color: rgb(0, 238, 255);
+}
+h5{
+    color: rgb(251, 255, 0);
+}
+
+h6{
+    color: rgb(195, 238, 42);
+}
+body {
+    background-image: url("https://4kwallpapers.com/images/walls/thumbs_2t/4523.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size : 100% ;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid rgb(248, 247, 247);
+  }
+  
+  tr:hover {background-color: rgb(209, 20, 184);}
